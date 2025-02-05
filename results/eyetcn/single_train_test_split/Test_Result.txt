@@ -1,0 +1,8 @@
+eyetcn classifier accuracy: 0.6231884057971014
+eyetcn classifier brier score: 0.3767144792546892
+eyetcn classifier auc score: 0.3960445239515007
+eyetcn classifier balanced accuracy: 0.5
+eyetcn classifier f1 score: 0.7678571428571428
+eyetcn classifier precision: 0.6231884057971014
+eyetcn classifier recall: 1.0
+

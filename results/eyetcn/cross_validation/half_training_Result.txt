@@ -1,0 +1,11 @@
+Mean validation accuracy: 0.9367637876829052
+Mean balanced validation accuracy: 0.8804507513947607
+Standard deviation of the balanced validation accuracy: 0.06615570013464804
+Mean validation AUC: 0.9845307614495196
+Mean validation precision: 0.90676205546717
+Mean validation recall: 0.9665157669938486
+Mean validation F1 score: 0.932485711612794
+Mean validation confusion matrix:
+[[18.5  5.4]
+ [ 1.9 52. ]]
+

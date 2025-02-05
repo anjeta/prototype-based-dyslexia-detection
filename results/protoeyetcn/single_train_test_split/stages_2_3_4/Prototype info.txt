@@ -1,0 +1,131 @@
+Prototype 1 associated with label 0 features:
+Reading time: 6.0 sec
+Number of fixations: 20
+Forward saccade length:  24.30 %scr (n=9)
+Backward saccade length: -17.14 %scr (n=9, std: 15.75)
+Median forward saccade speed: 3.459 px/usec
+Median backward saccade speed: -2.847 px/usec
+Median fixation duration: 190.6 msec (std: 136.6)
+
+Prototype 6 associated with label 1 features:
+Reading time: 6.0 sec
+Number of fixations: 18
+Forward saccade length:  13.90 %scr (n=12)
+Backward saccade length: -11.45 %scr (n=3, std: 28.31)
+Median forward saccade speed: 2.387 px/usec
+Median backward saccade speed: -1.902 px/usec
+Median fixation duration: 250.8 msec (std: 119.4)
+
+# ----------------------------------------------------------------------------------
+CLASS 0 PROTOTYPES: FEATURES
+Percentage of prototypes that belong to class 0: 50.0%
+Prototypes that belong to class 0: [1]
+Median number of fixations: 20.0 (std: 0.0)
+Median number of fixations per second (fxt): 3.3333333333333335 (std: 0.0)
+Median number of forward saccades: 9.0 (std: 0.0)
+Median forward saccade distance (fdist): 24.296191334724426 (std: 0.0)
+Median forward saccade speed (fspeed): 3.4594156394402313 (std: 0.0)
+Median numbe rof backward saccades: 9.0 (std: 0.0)
+Median backward saccade distance (bdist): -17.136353254318237 (std: 0.0)
+Median std of backward saccade distance (bdist.std): 15.749509632587433 (std: 0.0)
+Median backward saccade speed (bspeed): -2.8465386794673075 (std: 0.0)
+Median fixation durations (fdur): 190.63545150501682 (std: 0.0)
+Median std of fixation durations (fdur.std): 136.6023204691706 (std: 0.0)
+
+CLASS 1 PROTOTYPES: FEATURES
+Percentage of prototypes that belong to class 1: 50.0%
+Prototypes that belong to class 1: [6]
+Median number of fixations: 18.0 (std: 0.0)
+Median number of fixations per second (fxt): 3.0 (std: 0.0)
+Median number of forward saccades: 12.0 (std: 0.0)
+Median forward saccade distance (fdist): 13.90160620212555 (std: 0.0)
+Median forward saccade speed (fspeed): 2.386840984225277 (std: 0.0)
+Median numbe rof backward saccades: 3.0 (std: 0.0)
+Median backward saccade distance (bdist): -11.449901014566422 (std: 0.0)
+Median std of backward saccade distance (bdist.std): 28.30866277217865 (std: 0.0)
+Median backward saccade speed (bspeed): -1.9019557796418665 (std: 0.0)
+Median fixation durations (fdur): 250.83612040133778 (std: 0.0)
+Median std of fixation durations (fdur.std): 119.369833056683 (std: 0.0)
+
+# ----------------------------------------------------------------------------------
+Validation accuracy: 0.9482758620689655
+Balanced validation accuracy: 0.9365942028985508
+Validation AUC: 0.9909420289855073
+Validation precision: 0.9777777777777777
+Validation recall: 0.9565217391304348
+Validation confusion matrix:
+[[11  1]
+ [ 2 44]]
+
+# ----------------------------------------------------------------------------------
+Decoder weights:
+Prototype 1 of class HE:	1.2753 -0.8476 
+Reading time: 6.0 sec
+Number of fixations: 20
+Forward saccade length:  24.30 %scr (n=9)
+Backward saccade length: -17.14 %scr (n=9, std: 15.75)
+Median forward saccade speed: 3.459 px/usec
+Median backward saccade speed: -2.847 px/usec
+Median fixation duration: 190.6 msec (std: 136.6)
+
+Prototype 2 of class HE:	1.2752 -0.8494 
+
+Prototype 3 of class HE:	1.2750 -0.8493 
+
+Prototype 4 of class HE:	1.2751 -0.8493 
+
+Prototype 5 of class HE:	1.2751 -0.8493 
+
+Prototype 6 of class DYS:	-0.7985 1.2883 
+Reading time: 6.0 sec
+Number of fixations: 18
+Forward saccade length:  13.90 %scr (n=12)
+Backward saccade length: -11.45 %scr (n=3, std: 28.31)
+Median forward saccade speed: 2.387 px/usec
+Median backward saccade speed: -1.902 px/usec
+Median fixation duration: 250.8 msec (std: 119.4)
+
+Prototype 7 of class DYS:	-0.7986 1.2883 
+
+Prototype 8 of class DYS:	-0.7986 1.2884 
+
+Prototype 9 of class DYS:	-0.7981 1.2879 
+
+Prototype 10 of class DYS:	-0.7984 1.2881 
+
+# ----------------------------------------------------------------------------------
+Sorted decoder weights:
+Prototype 1 of class HE:	1.2753 -0.8476 
+Prototype 2 of class HE:	1.2752 -0.8494 
+Prototype 5 of class HE:	1.2751 -0.8493 
+Prototype 4 of class HE:	1.2751 -0.8493 
+Prototype 3 of class HE:	1.2750 -0.8493 
+Prototype 9 of class DYS:	-0.7981 1.2879 
+Prototype 10 of class DYS:	-0.7984 1.2881 
+Prototype 6 of class DYS:	-0.7985 1.2883 
+Prototype 7 of class DYS:	-0.7986 1.2883 
+Prototype 8 of class DYS:	-0.7986 1.2884 
+
+# ----------------------------------------------------------------------------------
+Class connections to closest prototypes:
+[[ 1.2753029  -0.79851425]
+ [-0.84761524  1.2883104 ]]
+
+# ----------------------------------------------------------------------------------
+Prototype 1 matching validation examples features:
+Reading time: 6.0 sec
+Average number of fixations: 21
+Average forward saccade length:  15.53 %scr (n=14)
+Average backward saccade length: -34.10 %scr (n=5, std: 22.06)
+Average median forward saccade speed: 2.660 px/usec
+Average median backward saccade speed: -4.987 px/usec
+Average median fixation duration: 183.9 msec (std: 109.2)
+
+Prototype 6 matching validation examples features:
+Reading time: 6.0 sec
+Average number of fixations: 15
+Average forward saccade length:  9.71 %scr (n=9)
+Average backward saccade length: -23.42 %scr (n=3, std: 16.33)
+Average median forward saccade speed: 1.866 px/usec
+Average median backward saccade speed: -3.253 px/usec
+Average median fixation duration: 257.0 msec (std: 217.5)

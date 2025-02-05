@@ -1,0 +1,8 @@
+protoeyetcn classifier accuracy: 0.9482758620689655
+protoeyetcn classifier brier score: 0.03394730074905527
+protoeyetcn classifier auc score: 0.9909420289855073
+protoeyetcn classifier balanced accuracy: 0.9365942028985508
+protoeyetcn classifier f1 score: 0.967032967032967
+protoeyetcn classifier precision: 0.9777777777777777
+protoeyetcn classifier recall: 0.9565217391304348
+

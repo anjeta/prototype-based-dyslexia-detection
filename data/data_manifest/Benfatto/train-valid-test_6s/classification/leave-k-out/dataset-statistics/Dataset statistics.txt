@@ -1,0 +1,5 @@
+Mean reading time: 25.753370786516857 [s]
+Standard deviation of the reading time: 9.878840108850088 [s]
+Median reading time: 25.060000000000002 [s]
+Number of recordings whith more that 10% of missing data samples: 8.0
+Number of recordings whith more that 10% of invalid data samples: 0.0

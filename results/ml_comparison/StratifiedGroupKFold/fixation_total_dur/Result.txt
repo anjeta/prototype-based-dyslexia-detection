@@ -1,0 +1,18 @@
+dummy classifier accuracy: 0.6796650592055005
+dummy classifier brier score: -0.21967798229957267
+dummy classifier auc score: 0.5
+dummy classifier balanced accuracy: 0.5
+dummy classifier standard deviation of balanced accuracy: 0.0
+dummy classifier f1 score: 0.8057346717582778
+dummy classifier precision: 0.6796650592055005
+dummy classifier recall: 1.0
+
+LR classifier accuracy: 0.6640400592055005
+LR classifier brier score: -0.22580117760827956
+LR classifier auc score: 0.7769969228263698
+LR classifier balanced accuracy: 0.496734693877551
+LR classifier standard deviation of balanced accuracy: 0.009795918367346942
+LR classifier f1 score: 0.7932358121651749
+LR classifier precision: 0.6781025592055004
+LR classifier recall: 0.9734693877551021
+
